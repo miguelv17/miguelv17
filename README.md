@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelv17&label=Profile%20views&color=0e75b6&style=flat" alt="miguelv17" /> </p>
 
-- 🔭 I’m currently working on *Secret :P**
+- 🔭 I’m currently working on ** Private :P **
 
 - 🌱 I’m currently learning **Jakarta, Spring**
 
