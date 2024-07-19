@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelv17&label=Profile%20views&color=0e75b6&style=flat" alt="miguelv17" /> </p>
 
-- 🔭 I’m currently working on **GS Cell**
+- 🔭 I’m currently working on *Secret :P**
 
-- 🌱 I’m currently learning **PrimeFaces**
-
-- 👯 I’m looking to collaborate on **GLDC System**
+- 🌱 I’m currently learning **Jakarta, Spring**
 
 - 💬 Ask me about **PHP, BootStrap,Java, jQuery, JS Vainilla**
 
